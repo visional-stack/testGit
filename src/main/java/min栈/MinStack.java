@@ -54,6 +54,7 @@ public class MinStack {
        minStack.pop();
        System.out.println(minStack.min());
        System.out.println(minStack.top());
+       System.out.println("修改main4");
        System.out.println("修改dev5555");
 
 
